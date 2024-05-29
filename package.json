@@ -1,0 +1,16 @@
+{
+  "name": "chime-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-apigatewaymanagementapi": "^3.583.0",
+    "@aws-sdk/client-chime-sdk-identity": "^3.582.0",
+    "@aws-sdk/client-chime-sdk-messaging": "^3.582.0",
+    "@aws-sdk/client-dynamodb": "^3.584.0",
+    "@aws-sdk/lib-dynamodb": "^3.584.0",
+    "uuid": "^9.0.1"
+  }
+}
